@@ -1,0 +1,14 @@
+ID,Name,Description,Price,Quantity,Category
+1,T-shirt blanc,T-shirt blanc,100,10,1
+2,T-shirt noir,T-shirt noir,10,10,1
+3,T-shirt rouge,T-shirt rouge,10,10,1
+4,T-shirt bleu,T-shirt bleu,10,10,1
+6,Pantalon noir,Pantalon noir,20,20,2
+7,Pantalon bleu,Pantalon bleu,20,20,2
+8,Pantalon rouge,Pantalon rouge,20,20,2
+9,Pantalon vert,Pantalon vert,20,20,2
+10,Chaussure noir,Chaussure noir,30,30,3
+11,Chaussure bleu,Chaussure bleu,30,30,3
+12,Chaussure rouge,Chaussure rouge,30,30,3
+13,Pull noir,Pull noir,40,40,4
+14,Pull bleu,Pull bleu,40,40,4
